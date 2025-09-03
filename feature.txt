@@ -1,1 +1,2 @@
 New feature
+Code of new feature
