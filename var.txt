@@ -1,1 +1,1 @@
-variables fo feature
+variables for feature
